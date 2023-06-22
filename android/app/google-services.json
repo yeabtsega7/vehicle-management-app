@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "888263231558",
+    "project_id": "bit-vehicle-management-system",
+    "storage_bucket": "bit-vehicle-management-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888263231558:android:5815a642ef67eda607a247",
+        "android_client_info": {
+          "package_name": "com.example.bit_vehicle_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888263231558-ugv1tmekv3sodmsfgrtl25g18eivhq78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsFKNz4GakIkU-2GLySPdt7hgzn8T89ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888263231558-ugv1tmekv3sodmsfgrtl25g18eivhq78.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888263231558-ga40vmm7bnssocurnrchttp3mv8uk7fc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bitVehicleWeb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
